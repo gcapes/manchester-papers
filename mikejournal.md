@@ -1,5 +1,5 @@
 # Content
-Informative more than funny...
+Informative not funny at all
 
 # Author
 Michael P. Lockhart-Cairns - University of Manchester
