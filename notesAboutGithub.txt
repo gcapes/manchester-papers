@@ -1,0 +1,17 @@
+Git is a distributed version control system commonly used for managing source code and tracking changes in software development projects. It provides a way for multiple people to collaborate on a project, keep track of changes, and easily merge their work together.
+
+Here are some common Git commands to get started:
+
+git init: Initializes a new Git repository in the current directory.
+git clone <repository>: Creates a copy of a remote repository on your local machine.
+git add <file>: Adds a file or changes to the staging area to be committed.
+git commit -m "commit message": Records the changes in the staging area to the repository with a descriptive message.
+git status: Shows the current status of your working directory and staged changes.
+git log: Displays a log of commits, including commit messages, author, and timestamps.
+git pull: Fetches changes from a remote repository and merges them into your current branch.
+git push: Sends your local commits to a remote repository.
+git branch: Lists existing branches and shows the current branch.
+git checkout <branch>: Switches to a different branch.
+git merge <branch>: Merges changes from the specified branch into the current branch.
+git remote add <name> <url>: Links your local repository to a remote repository.
+These are just a few basic Git commands to help you get started. Git provides a rich set of features for managing and collaborating on projects. I would recommend referring to the official Git documentation or various online resources for more detailed information and advanced usage.
