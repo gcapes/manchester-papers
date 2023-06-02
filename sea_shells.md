@@ -7,7 +7,7 @@ Rory AB, Uni of Manchester
 John Doe, University of hard knocks
 
 
-#Introduction
+# Introduction
 She sells sea shells
 
 But she sells them on the sea shore. (Bloggs et al)
@@ -15,27 +15,26 @@ But she sells them on the sea shore. (Bloggs et al)
 Near a seaside town (Obvious et al 1999)
 
 
-Some argue she should sell shells inland where supply is low 
+Some argue she should sell shells inland where supply is low
 
 But they are wrong!
 
 Some argue she should sell shells inland where supply is low
 
 # Conch
-Yet everyone wants a conch souvenir from the beach 
+Yet everyone wants a conch souvenir from the beach
 
-#sales figures
+# sales figures
 She sees sells sea shells with super sales figures in summer
 
-#Peter section
+# Peter section
 Peter piper picked a pile of pickled peppers
 
 Insert figures
 
-#Conclusions
+# Conclusions
 The conclusions are concluded with the final concluding statement
 
 
-#Affilitiations
-
+# Affilitiations
 This was all my work not yours!
