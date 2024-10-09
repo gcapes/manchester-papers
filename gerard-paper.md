@@ -26,6 +26,8 @@ Our simulations and measurements indicate particle growth is dominated by coagul
 # Conclusions
 We have made fantastic insight into the BBOA aging process.
 Nonetheless, questions remain unanswered, so we should get some more funding.
+Despite the funding requests, there, so far, has been not a single grant been approved, which is discouraging from an academic perspective.
+
 
 # Figures
 Add figures here. It's a draft.
