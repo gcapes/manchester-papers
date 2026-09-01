@@ -19,7 +19,7 @@ Thanks for reading this, and for contributing to this repository!
   - convert a plain text `.txt` file to a markdown `.md` file
   
 ### Style
-  Please follow the advice on [how to write a good commit message](http://gcapes.github.io/git-course/05-commit-advice/index.html).
+  Please follow the advice on [how to write a good commit message](http://gcapes.github.io/git-course/05-commit-advice/).
   
 ### What should I expect after submitting a pull request?
 - As the owner of the repository, I'll get a notification of your pull request. 
